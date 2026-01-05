@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sedal-elayan/sedal-elayan/blob/main/hi.png?raw=true" alt="Hi, I'm Sedal Shadi" width="400"/>
+<img src="https://raw.githubusercontent.com/sedal-elayan/sedal-elayan/b93bc2fff6bce65043493faddb5d3c9416b3a440/sedal.png" alt="Hi, I'm Sedal Shadi" width="400"/>
 </p>
 
 <p align="center">
@@ -12,15 +12,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sedal-elayan/sedal-elayan/b93bc2fff6bce65043493faddb5d3c9416b3a440/sedal.png" height="120" style="border-radius:50%;" />
 
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=sedal-elayan&theme=dracula" height="150" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sedal-elayan&layout=compact&theme=dracula" height="150" />
-</div>
 
 
 ###
