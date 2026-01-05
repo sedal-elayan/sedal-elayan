@@ -13,9 +13,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sedal-elayan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sedal-elayan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/sedal-elayan/sedal-elayan/b93bc2fff6bce65043493faddb5d3c9416b3a440/sedal.png" height="120" style="border-radius:50%;" />
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=sedal-elayan&theme=dracula" height="150" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sedal-elayan&layout=compact&theme=dracula" height="150" />
 </div>
+
 
 ###
 
